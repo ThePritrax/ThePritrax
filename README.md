@@ -9,8 +9,6 @@
   
 ## 🤝 Let's Connect
 
- - [My YouTube](https://www.youtube.com/channel/UCj5mMKHG4gl9aLGyxrxTZUA)
- - [My Twitter](https://twitter.com/ThePritrax)
- - [My Instagram](https://www.instagram.com/thepritrax/)
+ - [My Instagram](https://www.instagram.com/priy4nsh/)
 
   ![Pritrax GitHub stats](https://github-readme-stats.vercel.app/api?username=thepritrax&hide=contribs,prs)
