@@ -10,5 +10,6 @@
 ## 🤝 Let's Connect
 
  - [My Instagram](https://www.instagram.com/priy4nsh/)
+ - [My LinkedIn]([https://www.instagram.com/priy4nsh/](https://www.linkedin.com/in/priyansh-sinha/))
 
   ![Pritrax GitHub stats](https://github-readme-stats.vercel.app/api?username=thepritrax&hide=contribs,prs)
